@@ -70,6 +70,7 @@ function TodoList() {
     setTodoList(comp);
   };
   return (
+    <>
     <div className="main_div">
       <div className="center_div">
         <br />
@@ -157,6 +158,18 @@ function TodoList() {
         </button>
       </div>
     </div>
+    <div class="card">
+        <div class="content">
+          <div class="front">
+            Front
+          </div>
+          <div class="back">
+            Back!
+          </div>
+        </div>
+      </div>
+    
+</>
   );
 }
 export default TodoList;
