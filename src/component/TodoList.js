@@ -158,13 +158,13 @@ function TodoList() {
         </button>
       </div>
     </div>
-    <div class="card">
+    <div class="main-card card">
         <div class="content">
           <div class="front">
             Front
           </div>
           <div class="back">
-            Back!
+            Welcome!
           </div>
         </div>
       </div>
